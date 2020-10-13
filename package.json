@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "src/index.js",
   "dependencies": {
-    "google-map-react": "^0.34.0",
+    "google-map-react": "^2.1.8",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-scripts": "1.1.0",
